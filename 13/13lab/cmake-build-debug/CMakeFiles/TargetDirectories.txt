@@ -1,3 +1,0 @@
-C:/Users/User/Desktop/ucheba/lab op/13/13lab/cmake-build-debug/CMakeFiles/13lab.dir
-C:/Users/User/Desktop/ucheba/lab op/13/13lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Desktop/ucheba/lab op/13/13lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
