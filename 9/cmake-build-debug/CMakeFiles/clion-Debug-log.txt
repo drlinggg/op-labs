@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\User\Desktop\ucheba\lab op\9 Select CMakeLists.txt
